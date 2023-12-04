@@ -8,5 +8,7 @@ Siguiendo estos pasos y ajustando el código según las necesidades, se podrá a
 Para este proyecto utilice Visual Studio Code, Android Studio, Firebase.
 
 •	Visual Studio Code para escribir nuestro código.
+
 •	Android Studio para manejar el desarrollo en Android.
+
 •	Firebase será nuestro servicio de backend para gestionar la autenticación.
